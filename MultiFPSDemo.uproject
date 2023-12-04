@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D5353284-40B7-17B3-9FBE-FDBAAF96DAA7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MultiFPSDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": false
+		}
+	]
+}
